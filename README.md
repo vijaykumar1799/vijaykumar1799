@@ -3,7 +3,7 @@
 **Data Analyst | Data Scientist | Machine Learning Enthusiast**
 
 - 🎓 Master’s in Electrical and Computer Engineering from Concordia University
-- 📊 Skilled in Python (Pandas, NumPy, Scikit-learn, TensorFlow), SQL, Power BI, and FastAPI
+- 📊 Skilled in Python (Pandas, NumPy, Scikit-learn, TensorFlow), SQL, Power BI, Excel, and FastAPI
 - 🚀 Passionate about delivering business insights, building predictive models, and solving real-world problems through data
 - 🛠️ Tools & Technologies: Machine Learning, Deep Learning, Business Intelligence, Web Scraping, Cloud (Azure Fundamentals Certified)
 - 📈 Focused on transforming data into actionable strategies and business value
